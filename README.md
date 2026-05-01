@@ -5,7 +5,7 @@ A full-stack web application that transforms static PDF documents into interacti
 ---
 
 ## Live Demo
-https://ai-learning-assistant-lyart.vercel.app
+https://synaptiqai.vercel.app
 
 ---
 
